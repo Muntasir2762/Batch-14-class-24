@@ -1,0 +1,30 @@
+
+====Data Type===
+
+
+44, 44.56 => integer, float, double (number)
+This is our js class, a, b, V, apple (String)
+true/false (boolean)
+
+(name, age, class)=>object
+
+
+=======Conditional Statement=====
+1. if/else
+2. switch/case
+
+if(condition){
+    //Statement...
+}
+else if(condition){
+    //Statement...
+}
+else if(condition){
+    //Statement...
+}
+else if(condition){
+    //Statement...
+}
+else{
+    //Satement...
+}
